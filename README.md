@@ -17,11 +17,7 @@ A lightweight web-based mini compiler that allows users to write code in a custo
 * 🧠 Tokenizer → Parser → Interpreter pipeline
 * 💡 Real-time execution with error handling
 
----
 
-## 📸 Preview
-
-> *(Add a screenshot or GIF here if you want — I can generate one for you.)*
 
 ---
 
